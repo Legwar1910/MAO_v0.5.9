@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Upgrade Parts -->
+	<string id="st_cryechops">
+		<text>Дополнительное бронирование Crye Airframe Chops</text>
+	</string>
+	<string id="st_cryechops_descr">
+		<text>Дополнительное бронирование для шлема Airframe, которое защищает область ушей и челюсть от осколков и малокалиберных рикошетов.</text>
+	</string>
+
+	<string id="st_fshield">
+		<text>Многоударный баллистический лицевой щит-забрало для шлема Ops-Core FAST</text>
+	</string>
+	<string id="st_fshield_descr">
+		<text>Специальный высокопрочный баллистический визор для шлема Ops-Core, используемый в штурмовых группах спецназа.</text>
+	</string>	
+
+	<string id="st_visor">
+		<text>Визор для шлема Ops-Core FAST Visor</text>
+	</string>
+	<string id="st_visor_descr">
+		<text>Предназначены для защиты глаз и части лица военнослужащего от осколков снарядов, мин, гранат, капель химически агрессивных (неразъедающих) жидкостей и масел, грубодисперсных аэрозолей, тепловых факторов, атмосферных воздействий и механических повреждений при ведении всех видов боевых действий.</text>
+	</string>	
+	
+	<string id="st_slaap">
+		<text>Дополнительное бронирование SLAAP для Ops-Core</text>
+	</string>
+	<string id="st_slaap_descr">
+		<text>Дополнительное бронирование для шлема Ops-Core FAST, выполненное из специальной полиэтиленовой плиты 5-го класса защиты.</text>
+	</string>
+	
+	<string id="st_altyn_fshield">
+		<text>Бронезабрало для шлема Алтын</text>
+	</string>
+	<string id="st_altyn_fshield_descr">
+		<text>Специальное бронезабрало для тяжелого шлема Алтын. Повышает шансы на выживание при попаданиях пуль или осколков в лицо.</text>
+	</string>	
+
+	<string id="st_maska_fshield">
+		<text>Бронезабрало для шлема Маска-1Щ (Killa)</text>
+	</string>
+	<string id="st_maska_fshield_descr">
+		<text>Специальное забрало для бронешлема Маска-1Щ выполненное из металла в авторском дизайне Киллы.</text>
+	</string>	
+
+	<string id="st_mandible">
+		<text>Мандибула Ops-Core Fast GUNSIGHT</text>
+	</string>
+	<string id="st_mandible_descr">
+		<text>Специальная дополнительная баллистическая защита для шлема Ops-Core FAST, устанавливаемая на боковые бронещитки Side Armor</text>
+	</string>	
+
+	<string id="st_trooper_fshield">
+		<text>Дополнительный модуль Tac-Kek Heavy Trooper на шлем</text>
+	</string>
+	<string id="st_trooper_fshield_descr">
+		<text>Tac-Kek Heavy Trooper, дополнительный модуль баллистическая маска на шлем по типу Ops Core, по мотивам известной киновселенной. Таков путь.</text>
+	</string>	
+
+	<string id="st_helm_gssh">
+		<text>Активные наушники ГСШ-01</text>
+	</string>
+	<string id="st_helm_gssh_descr">
+		<text>Активные наушники, которые идут вместе с комплектом Ратник. </text>
+	</string>	
+
+<!-- Modular Helmets -->
+
+	<string id="st_helm_crye">
+		<text>Шлем Crye Precision Airframe Tan (Airframe Tan)</text>
+	</string>
+	<string id="st_helm_crye_descr">
+		<text>%c[ui_gray_1]Баллистический шлем AirFrame устанавливает стандарты защиты, комфорта и модульности. Уникальный дизайн шлема совмещает в себе систему вентиляции и минимизирует урон от взрывной волны.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_altyn">
+		<text>Бронешлем Алтын</text>
+	</string>
+	<string id="st_helm_altyn_descr">
+		<text>%c[ui_gray_1]«Алтын» прошел реальные боевые испытания в Афганистане и Чечне и до сих пор остается на вооружении органов МВД РФ и армейского спецназа. Возможна установка бронированного забрала.\n \n
+		</text>
+	</string>
+	
+	<string id="st_helm_maska">
+		<text>Шлем Маска-1Щ (Killa)</text>
+	</string>
+	<string id="st_helm_maska_descr">
+		<text>%c[ui_gray_1]Защитный шлем «Маска-1» появился на вооружении в 1991 году, как замена шлему «Сфера». Личный шлем Киллы.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_lzsh">
+		<text>Шлем ЛШЗ</text>
+	</string>
+	<string id="st_helm_lzsh_descr">
+		<text>%c[ui_gray_1]Легкий защитный шлем российского производства. По сути копия шлема Ops-core Fast, но с более низкими характеристиками.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_tackek">
+		<text>Шлем Tac-Kek Fast MT (реплика)</text>
+	</string>
+	<string id="st_helm_tackek_descr">
+		<text>%c[ui_gray_1]Небаллистическая реплика шлема Ops-Core Fast от Tac-Kek. Может быть модифицирован различными компонентами. Во славу Поролоновых Войн!\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_gallet">
+		<text>Шлем MSA Gallet TC 800 High Cut</text>
+	</string>
+	<string id="st_helm_gallet_descr">
+		<text>%c[ui_gray_1]Баллистический шлем MSA TC 800, предназначенный для применения тактическими командами полицейского спецназа, в боевых и разведывательных операциях. Может быть модифицирован различными компонентами.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_ops">
+		<text>Шлем Ops-Core Fast MT SUPER HIGH CUT (Fast MT)</text>
+	</string>
+	<string id="st_helm_ops_descr">
+		<text>%c[ui_gray_1]Баллистический шлем Ops-Core Fast популярный у спецподразделений всего мира. Может быть модифицирован различными компонентами.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_kiver">
+		<text>Шлем Кивер-М</text>
+	</string>
+	<string id="st_helm_kiver_descr">
+		<text>%c[ui_gray_1]Пуленепробиваемый бронешлем.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_wendy">
+		<text>Шлем Team Wendy EXFIL Ballistic (EXFIL)</text>
+	</string>
+	<string id="st_helm_wendy_descr">
+		<text>%c[ui_gray_1]Один из самых последних тактических баллистических шлемов с широкими возможностями по его кастомизации.\n \n
+		</text>
+	</string>
+
+<string id="Chak_outfit_name">
+		<text>Бронежилет Чак</text>
+	</string>
+	<string id="Chak_outfit_description">
+		<text>%c[ui_gray_1]Бронежилет Чак разработанный из металических пластин и пояса от разгрузочного жилета явная выдумка гениев из Зоны или с "Большой земли".\n \n
+		</text>
+	</string>
+
+	<string id="tach_outfit_name">
+		<text>Бронежилет Тащ(EXFIL)</text>
+	</string>
+	<string id="tach_outfit_description">
+		<text>%c[ui_gray_1]Один из самых последних тактических баллистических бронежилетов с широкими возможностями по его применению в зоне появился недавно.\n \n
+		</text>
+	</string>
+       <string id="helm_sonline_name">
+		<text>Шлем с встроенным респиратором(EXFIL)</text>
+	</string>
+	<string id="helm_sonline_description">
+		<text>%c[ui_gray_1]Один из самых последних тактических баллистических шлемов с радиозащитными вставками.\n \n
+		</text>
+       </string>
+ <string id="KBO_outfit_name">
+		<text>Костюм КБО(EXFIL)</text>
+	</string>
+	<string id="KBO_outfit_description">
+		<text>%c[ui_gray_1]Новейщее разработка ученых из зоны титановые пластины с стальной кройкой уникальная система очистки воздуха.\n \n
+		</text>
+       </string>
+  <string id="Shpinat_outfit_name">
+		<text>Бронежилет Шпинат(EXFIL)</text>
+	</string>
+	<string id="Shpinat_outfit_description">
+		<text>%c[ui_gray_1]Спроектирован и создан для исследования аномальных зон в условиях повышенной активности мутантов. Достаточно высокая защита от внешних воздействий и повышенная пулестойкость.\n \n
+		</text>
+       </string>
+<string id="Dragun_outfit_name">
+		<text>Бронежилет Драгун (EXFIL)</text>
+	</string>
+	<string id="Dragun_outfit_description">
+		<text>%c[ui_gray_1]Тяжелая экипировка. Броня Российского производства. Прекрасно подходит для опытных бойцов, не привыкших прятаться в укрытиях. Однако, в данном бронекомплекте, посещать места высокой аномальной активности следует с повышенной осторожностью.\n \n
+		</text>
+       </string>
+	   <string id="usa_outfit_name">
+		<text>Костюм УЕС-01</text>
+	</string>
+	<string id="usa_outfit_description">
+		<text>%c[ui_gray_1]Спроектирован и создан для исследования аномальных зон в западных руках говорят привезен группой ИИГ. Достаточно высокая защита от внешних воздействий и повышенная пулестойкость.\n \n
+		</text>
+       </string>
+	   <string id="nightwolf_outfit_name">
+		<text>Бронежилет отряда "Ночного волка"</text>
+	</string>
+	<string id="nightwolf_outfit_description">
+		<text>%c[ui_gray_1]Спроектирован для спец-отряда долга "Ночной волк" имеет достаточно высокую защита от внешних воздействий и повышенная пулестойкость.\n \n
+		</text>
+       </string>   
+	   <string id="module03_outfit_name">
+		<text>Куртка наемников с разгрузочным жилетом</text>
+	</string>
+	<string id="module03_outfit_description">
+		<text>%c[ui_gray_1]Куртка с разгрузочным жилетом неплохое совмещение для людей которым нравится таскать на себе много вещей.\n \n
+		</text>
+       </string>
+	   <string id="module04_outfit_name">
+		<text>бронежилет</text>
+	</string>
+	<string id="module04_outfit_description">
+		<text>%c[ui_gray_1]Обычный бронежилет от 9мм пули спасет.\n \n
+		</text>
+       </string>
+	   <string id="module05_outfit_name">
+		<text>Куртка наемников с бронежилетом</text>
+	</string>
+	<string id="module05_outfit_description">
+		<text>%c[ui_gray_1]Куртка с разгрузочным жилетом неплохое совмещение для людей которым не хочется ловить пули.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker_outfit_name">
+		<text>Куртка Сталкера</text>
+	</string>
+	<string id="modulestalker_outfit_description">
+		<text>%c[ui_gray_1]Куртка цвета хаки ничего примечательно,надо быть убитым чтобы придти в зону в одной куртке не имея никакой защиты.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker1_outfit_name">
+		<text>Куртка сталкера с разгрузкой</text>
+	</string>
+	<string id="modulestalker1_outfit_description">
+		<text>%c[ui_gray_1]Куртка с разгрузкой в ней люди пересекают периметр желающие получить пулю в первый день.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker12_outfit_name">
+		<text>Куртка сталкера с броником</text>
+	</string>
+	<string id="modulestalker12_outfit_description">
+		<text>%c[ui_gray_1]Ого оо да ты поднялся хотя бы пистолетный патрон выдержит.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker13_outfit_name">
+		<text>Средний разгрузочный жилет</text>
+	</string>
+	<string id="modulestalker13_outfit_description">
+		<text>%c[ui_gray_1]С таким и к сидоровичку с консервными банками зайти можно.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker17_outfit_name">
+		<text>Комбинезон "ЗАРЯ"с бронежилетом "ТАЩ"</text>
+	</string>
+	<string id="modulestalker17_outfit_descr">
+		<text>%c[ui_gray_1]Классика.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker15_outfit_name">
+		<text>Комбинезон "ЗАРЯ"</text>
+	</string>
+	<string id="modulestalker15_outfit_descr">
+		<text>%c[ui_gray_1]Обычная куртка модифицированная сталкерами.\n \n
+		</text>
+       </string>
+	   <string id="modulevkpo_outfit_name">
+		<text>Костюм "ВКПО"</text>
+	</string>
+	<string id="modulevkpo_outfit_descr">
+		<text>%c[ui_gray_1]Все сезонный комплект полевого обмундирования.\n \n
+		</text>
+       </string>
+	   <string id="modulezabralo_outfit_name">
+		<text>Бронежилет 6Б12 "Забрало"</text>
+	</string>
+	<string id="modulezabralo_outfit_descr">
+		<text>%c[ui_gray_1]Бронежилет состоящий на вооружений в ВСРФ.\n \n
+		</text>
+       </string>
+	   <string id="modulevkpoz_outfit_name">
+		<text>Коcтюм "ВКПО" с бронежилетом 6Б12</text>
+	</string>
+	<string id="modulevkpoz_outfit_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_68_name">
+		<text>Каска СШ-68</text>
+	</string>
+	<string id="module_68_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_show_name">
+		<text>Лыжная маска</text>
+	</string>
+	<string id="module_show_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_helm_68show_name">
+		<text>Каска СШ-68 с маской</text>
+	</string>
+	<string id="module_helm_68show_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="moduleflora_outfit_name">
+		<text>6Б13 "ФЛОРА"</text>
+	</string>
+	<string id="moduleflora_outfit_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_helm_04_name">
+		<text>Противогаз МО4</text>
+	</string>
+	<string id="module_helm_04_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="moduletc_outfit_name">
+		<text>Бронежилет NFM "TC-Reinforced Vest"</text>
+	</string>
+	<string id="moduletc_outfit_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="modulekorund_outfit_name">
+		<text>Бронежилет НПП КлАСС "Корунд-ВМ"</text>
+	</string>
+	<string id="modulekorund_outfit_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_helm_jet_name">
+		<text>Бронешлем "ДЖЕТА 97"</text>
+	</string>
+	<string id="module_helm_jet_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_helm_cap_name">
+		<text>Кепка армейская</text>
+	</string>
+	<string id="module_helm_cap_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_helmshow_name">
+		<text>Шапка Лыжная</text>
+	</string>
+	<string id="module_helmshow_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="module_helm_68_name">
+		<text>Каска СШ68</text>
+	</string>
+	<string id="module_helm_68_descr">
+		<text>%c[ui_gray_1].\n \n
+		</text>
+       </string>
+	   <string id="modulestalkertach_outfit_name">
+		<text>Куртка сталкера с бронежилетом"ТАЩ"</text>
+	</string>
+	<string id="modulestalkertach_outfit_descr">
+		<text>%c[ui_gray_1]Обычная куртка с надетым сверху броником.\n \n
+		</text>
+       </string>
+	   <string id="modulestalkerunload_outfit_name">
+		<text>Разгрузочный жилет с бронепластинами Crye Precision "AVS"</text>
+	</string>
+	<string id="modulestalkerunload_outfit_descr">
+		<text>%c[ui_gray_1]Разгрузочная система Crye Precision AVS оснащенная 
+		легкими бронеплитами из комбинированных материалов. 
+		Один из самых удобных для ношения плитников.\n \n
+		</text>
+       </string>
+	   <string id="cam_cifr_name">
+		<text>Чехол "Цифра"</text>
+	</string>
+	<string id="cam_cifr_descr">
+		<text>%c[ui_gray_1]обычный чехол.\n \n
+		</text>
+       </string>
+	   <string id="module_helm_cam_name">
+		<text>Шлем ЛШЗ в чехле "Цифра"</text>
+	</string>
+	<string id="module_helm_cam_descr">
+		<text>%c[ui_gray_1]Легкий защитный шлем российского производства в чехле. По сути копия шлема Ops-core Fast, но с более низкими характеристиками.\n \n
+		</text>
+       </string>
+	   <string id="modulestalker6b2_outfit_name">
+		<text>Бронежилет 6Б2"ФЛОРА"</text>
+	</string>
+	<string id="modulestalker6b2_outfit_descr">
+		<text>%c[ui_gray_1]Старый армейский бронежилет времен войны в Афганистане, в основном предназначенный 
+		для защиты от пистолетных пуль и осколков. Свое предназначение 
+		он выполнял, но вскоре был заменен 
+		бронежилетами с дифференцированной защитой.\n \n
+		</text>
+       </string>
+	   <string id="modulestalkerkinolog_outfit_name">
+		<text>Костюм "Кинолог"</text>
+	</string>
+	<string id="modulestalkerkinolog_outfit_descr">
+		<text>%c[ui_gray_1]Спецодежда, предназначенная для кинологов. Первоначально использовалась как защитный костюм для дрессировщиков военных собак. В зоне приобрела широкую славу надежного средства защиты от зубов и когтей мутантов. 
+		Специальные карманы под корм для животных и полукольца для крепления поводка, 
+		впрочем, так и не нашли практического применения.\n \n
+		</text>
+       </string>
+</string_table>
